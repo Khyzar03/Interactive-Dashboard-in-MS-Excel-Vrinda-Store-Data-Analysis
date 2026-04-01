@@ -4,8 +4,7 @@
 The Vrinda Store wants to create an annual sales report for 2022. So that. the owner of the Vrinda store can understand their customers and grow more sales in 2023 &amp; 2024.
 
 ## Dataset used
-• ea hrefa"https://github.com/ritikbh193/Data-Analytfcs-with-
-Excel/blob/main/Vrinda%20Store%20Data%20Analysis2.xlsx">Vrinda Store
+https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Frishabhnmishra%2FExcel_Vrinda_Store_Analysis%2Fmain%2FVrinda%2520Store%2520Data%2520Analysis.xlsx&wdOrigin=BROWSELINK
 
 ## Questions (KPIs)
 Compare the sales and orders using single chart.
