@@ -16,7 +16,7 @@ Compare the sales and orders using single chart.
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
 - Percentage of Total Orders delivered
-- Dashboard Interaction ca href=["https://github.com/ritikbh193/Data-Analytics-with-
+- Dashboard Interaction ["https://github.com/ritikbh193/Data-Analytics-with-
 Excel/blob/main/Dashboard_lmage.png">View Dashboard](https://github.com/Khyzar03/Interactive-Dashboard-in-MS-Excel-Vrinda-Store-Data-Analysis/blob/main/Dashboard%20image.PNG)</a>
 
 ## Process
